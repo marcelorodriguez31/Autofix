@@ -1,0 +1,33 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# React
+node_modules/
+build/
+dist/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notas internas
+CLAUDE.md
+.claude/
